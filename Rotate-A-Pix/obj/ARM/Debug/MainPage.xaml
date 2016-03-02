@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Rotate_A_Pix.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Rotate_A_Pix"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="FirstSound">
+        <!--Button x:Name="button" Content="Start" HorizontalAlignment="Left" Margin="104,481,0,0" VerticalAlignment="Top" Height="108" Width="205" FontSize="26.667" Click="button_Click"/-->
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="144.224,199.34,0,0" TextWrapping="Wrap" Text="Presents" VerticalAlignment="Top" Height="45" Width="102.662" FontSize="26.667" RenderTransformOrigin="0.5,0.5" FontFamily="Papyrus" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <TextBlock.RenderTransform>
+                <CompositeTransform Rotation="-0.607"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="293" Margin="-19,0,-16,0" VerticalAlignment="Top" Width="435" Source="Assets/Shatter Text Logo.png"/>
+        <Image x:ConnectionId='1' x:Name="image1" HorizontalAlignment="Left" Height="257" Margin="10,298,0,0" VerticalAlignment="Top" Width="380" Source="Assets/Rotate-A-Pix Logo(original).png"                                       />
+        <TextBlock x:Name="msg1" HorizontalAlignment="Left" Margin="115,555,0,0" TextWrapping="Wrap" Text="Tap the logo to begin!" VerticalAlignment="Top" FontSize="13.333"/>
+        <!--MediaElement x:Name="mediaElement" HorizontalAlignment="Left" Height="100" Margin="145,261,0,0" VerticalAlignment="Top" Width="100"/-->
+        <MediaElement x:Name="IntroMusic" HorizontalAlignment="Left" Height="100" Margin="145,298,0,0" VerticalAlignment="Top" Width="100" Source="Assets/Friendship.mp3"/>
+
+
+    </Grid>
+</Page>
+

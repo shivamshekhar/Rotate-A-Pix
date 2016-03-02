@@ -1,0 +1,106 @@
+﻿<Page
+    x:Class="Rotate_A_Pix.TimeAttack_Lv4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Rotate_A_Pix"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="Black">
+        <Canvas>
+            <Grid Canvas.ZIndex="2" x:Name="Lv4grid" HorizontalAlignment="Left" Height="334" Margin="32,130,0,0" VerticalAlignment="Top" Width="339">
+                <Image x:ConnectionId='4' x:Name="image" HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="80" Source="Assets/4_0.png" RenderTransformOrigin="0.5,0.5"                                        >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='5' x:Name="image1" HorizontalAlignment="Left" Height="80" Margin="85,0,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_1.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='6' x:Name="image3" Height="80" Width="80" Margin="170,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Source="Assets/4_2.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='7' x:Name="image4" HorizontalAlignment="Left" Height="80" Margin="255,0,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_3.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='8' x:Name="image5" HorizontalAlignment="Left" Height="80" Margin="0,85,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_4.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='9' x:Name="image6" HorizontalAlignment="Left" Height="80" Margin="85,85,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_5.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='10' x:Name="image7" HorizontalAlignment="Left" Height="80" Margin="170,85,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_6.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='11' x:Name="image8" HorizontalAlignment="Left" Height="80" Margin="255,85,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_7.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='12' x:Name="image9" HorizontalAlignment="Left" Height="80" Margin="0,170,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_8.png" RenderTransformOrigin="0.5,0.5"                                         >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='13' x:Name="image10" HorizontalAlignment="Left" Height="80" Margin="85,170,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_9.png" RenderTransformOrigin="0.5,0.5"                                          >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='14' x:Name="image11" HorizontalAlignment="Left" Height="80" Margin="170,170,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_10.png" RenderTransformOrigin="0.5,0.5"                                          >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='15' x:Name="image12" HorizontalAlignment="Left" Height="80" Margin="255,170,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_11.png" RenderTransformOrigin="0.5,0.5"                                          >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='16' x:Name="image13" HorizontalAlignment="Left" Height="80" Margin="0,255,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_12.png" RenderTransformOrigin="0.5,0.5"                                          >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='17' x:Name="image14" HorizontalAlignment="Left" Height="80" Margin="85,255,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_13.png" RenderTransformOrigin="0.5,0.5"                                          >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='18' x:Name="image15" HorizontalAlignment="Left" Height="80" Margin="170,255,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_14.png" RenderTransformOrigin="0.5,0.5"                                          >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+                <Image x:ConnectionId='19' x:Name="image16" HorizontalAlignment="Left" Height="80" Margin="255,255,0,0" VerticalAlignment="Top" Width="80" Source="Assets/4_15.png" RenderTransformOrigin="0.5,0.5"                                          >
+                    <Image.RenderTransform>
+                        <RotateTransform/>
+                    </Image.RenderTransform>
+                </Image>
+            </Grid>
+            <TextBlock x:Name="wintext" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="54" Width="339" FontSize="21.333" Canvas.Left="32" Canvas.Top="511"/>
+            <TextBlock x:Name="CountdownTimer" HorizontalAlignment="Left" Margin="10,39,0,0" TextWrapping="Wrap" Text="Time Remaining: 30" VerticalAlignment="Top" Height="38" Width="202" FontSize="20"/>
+            <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Level 4" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" FontSize="20"/>
+            <Button x:ConnectionId='1' x:Name="Start" Content="Start" HorizontalAlignment="Left" Margin="144,501,0,0" VerticalAlignment="Top"                    />
+            <Image Canvas.ZIndex="1" x:Name="Lv4_main"  HorizontalAlignment="Left" Height="334" Margin="32,130,0,0" VerticalAlignment="Top" Width="339" Source="Assets/4_main.png" Opacity="0"/>
+            <Button x:ConnectionId='2' x:Name="NextButton" Content="Next" Canvas.Left="32" Canvas.Top="560" Visibility="Collapsed"                         />
+            <TextBlock x:Name="LoseMessage" Canvas.Left="61" TextWrapping="Wrap" Text="Timeout?" Canvas.Top="212" FontSize="60" FontFamily="Verdana" Visibility="Collapsed"/>
+            <Button x:ConnectionId='3' x:Name="TryAgain" Content="Try Again" Canvas.Left="144" Canvas.Top="430" Visibility="Collapsed"                       />
+        </Canvas>
+    </Grid>
+</Page>
+

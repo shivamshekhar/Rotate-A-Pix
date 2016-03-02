@@ -1,0 +1,114 @@
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.g.i.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.g.i.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.g.i.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\XamlTypeInfo.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.xaml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\XamlSaveStateFile.xml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.xaml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.xaml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\App.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\MainPage.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv1.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.xr.xml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.exe
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.pdb
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\resources.pri
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\AppxManifest.xml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.build.appxrecipe
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\Rotate-A-Pix.exe
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\Rotate-A-Pix.pdb
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\priconfig.xml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\priconfig.xml.intermediate
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\layout.resfiles
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\layout.resfiles.intermediate
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\resources.resfiles
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\resources.resfiles.intermediate
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\pri.resfiles
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\pri.resfiles.intermediate
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\qualifiers.txt
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\qualifiers.txt.intermediate
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\ProjectArchitectures.txt
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv2.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.g.i.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.xaml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.g.i.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.xaml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv3.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv4.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.g.i.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.xaml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\FinalPage.xbf
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.g.i.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.g.cs
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.xaml
+c:\users\inspiron\documents\visual studio 2015\Projects\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\App.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\FinalPage.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\MainPage.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv1.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv2.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv3.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\TimeAttack_Lv4.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.xr.xml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.exe
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.pdb
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\resources.pri
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\AppxManifest.xml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\bin\Debug\Rotate-A-Pix.build.appxrecipe
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.g.i.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.g.i.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.g.i.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.g.i.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.g.i.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.g.i.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.g.i.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\XamlTypeInfo.g.cs
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.xaml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.xaml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.xaml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.xaml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.xaml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.xaml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.xaml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\App.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\FinalPage.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MainPage.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv1.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv2.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv3.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\TimeAttack_Lv4.xbf
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\XamlSaveStateFile.xml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\Rotate-A-Pix.exe
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\Rotate-A-Pix.pdb
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\priconfig.xml
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\priconfig.xml.intermediate
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\layout.resfiles
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\layout.resfiles.intermediate
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\resources.resfiles
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\resources.resfiles.intermediate
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\pri.resfiles
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\pri.resfiles.intermediate
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\qualifiers.txt
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\qualifiers.txt.intermediate
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\backups\Rotate-A-Pix\Rotate-A-Pix\obj\Debug\ProjectArchitectures.txt

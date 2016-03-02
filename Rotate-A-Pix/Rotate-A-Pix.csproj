@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9BF6623-D6B9-463C-A907-CF5FAB199433}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Rotate_A_Pix</RootNamespace>
+    <AssemblyName>Rotate-A-Pix</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{76F1466A-8B6D-4E39-A767-685A06062A39};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FinalPage.xaml.cs">
+      <DependentUpon>FinalPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="System\Windows\Visibility.cs" />
+    <Compile Include="TimeAttack_Lv1.xaml.cs">
+      <DependentUpon>TimeAttack_Lv1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TimeAttack_Lv2.xaml.cs">
+      <DependentUpon>TimeAttack_Lv2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TimeAttack_Lv3.xaml.cs">
+      <DependentUpon>TimeAttack_Lv3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TimeAttack_Lv4.xaml.cs">
+      <DependentUpon>TimeAttack_Lv4.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\3_0.png" />
+    <Content Include="Assets\3_1.png" />
+    <Content Include="Assets\3_10.png" />
+    <Content Include="Assets\3_11.png" />
+    <Content Include="Assets\3_12.png" />
+    <Content Include="Assets\3_13.png" />
+    <Content Include="Assets\3_14.png" />
+    <Content Include="Assets\3_15.png" />
+    <Content Include="Assets\3_2.png" />
+    <Content Include="Assets\3_3.png" />
+    <Content Include="Assets\3_4.png" />
+    <Content Include="Assets\3_5.png" />
+    <Content Include="Assets\3_6.png" />
+    <Content Include="Assets\3_7.png" />
+    <Content Include="Assets\3_8.png" />
+    <Content Include="Assets\3_9.png" />
+    <Content Include="Assets\3_main.png" />
+    <Content Include="Assets\4_0.png" />
+    <Content Include="Assets\4_1.png" />
+    <Content Include="Assets\4_10.png" />
+    <Content Include="Assets\4_11.png" />
+    <Content Include="Assets\4_12.png" />
+    <Content Include="Assets\4_13.png" />
+    <Content Include="Assets\4_14.png" />
+    <Content Include="Assets\4_15.png" />
+    <Content Include="Assets\4_2.png" />
+    <Content Include="Assets\4_3.png" />
+    <Content Include="Assets\4_4.png" />
+    <Content Include="Assets\4_5.png" />
+    <Content Include="Assets\4_6.png" />
+    <Content Include="Assets\4_7.png" />
+    <Content Include="Assets\4_8.png" />
+    <Content Include="Assets\4_9.png" />
+    <Content Include="Assets\4_main.png" />
+    <Content Include="Assets\7_0.png" />
+    <Content Include="Assets\7_1.png" />
+    <Content Include="Assets\7_10.png" />
+    <Content Include="Assets\7_11.png" />
+    <Content Include="Assets\7_12.png" />
+    <Content Include="Assets\7_13.png" />
+    <Content Include="Assets\7_14.png" />
+    <Content Include="Assets\7_15.png" />
+    <Content Include="Assets\7_2.png" />
+    <Content Include="Assets\7_3.png" />
+    <Content Include="Assets\7_4.png" />
+    <Content Include="Assets\7_5.png" />
+    <Content Include="Assets\7_6.png" />
+    <Content Include="Assets\7_7.png" />
+    <Content Include="Assets\7_8.png" />
+    <Content Include="Assets\7_9.png" />
+    <Content Include="Assets\7_main.png" />
+    <Content Include="Assets\8_0.png" />
+    <Content Include="Assets\8_1.png" />
+    <Content Include="Assets\8_10.png" />
+    <Content Include="Assets\8_11.png" />
+    <Content Include="Assets\8_12.png" />
+    <Content Include="Assets\8_13.png" />
+    <Content Include="Assets\8_14.png" />
+    <Content Include="Assets\8_15.png" />
+    <Content Include="Assets\8_2.png" />
+    <Content Include="Assets\8_3.png" />
+    <Content Include="Assets\8_4.png" />
+    <Content Include="Assets\8_5.png" />
+    <Content Include="Assets\8_6.png" />
+    <Content Include="Assets\8_7.png" />
+    <Content Include="Assets\8_8.png" />
+    <Content Include="Assets\8_9.png" />
+    <Content Include="Assets\8_main.png" />
+    <Content Include="Assets\Friendship.mp3" />
+    <Content Include="Assets\Logo.scale-240.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%281%29%281152x1920%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%28original%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo %28150x150%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%281152x1920%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%2824x24%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%2833x33%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%281152x774%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%28310x150%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%2858x58%29.scale-100.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%2858x58%29.scale-140.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%2858x58%29.scale-240.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo%2871x71%29.png" />
+    <Content Include="Assets\Rotate-A-Pix Logo.png" />
+    <Content Include="Assets\Shatter Text Logo.png" />
+    <Content Include="Assets\SmallLogo.scale-240.png" />
+    <Content Include="Assets\SplashScreen.scale-240.png" />
+    <Content Include="Assets\Square71x71Logo.scale-240.png" />
+    <Content Include="Assets\StoreLogo.scale-240.png" />
+    <Content Include="Assets\WideLogo.scale-240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="FinalPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TimeAttack_Lv1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TimeAttack_Lv2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TimeAttack_Lv3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TimeAttack_Lv4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetPlatformIdentifier)' == '' ">
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

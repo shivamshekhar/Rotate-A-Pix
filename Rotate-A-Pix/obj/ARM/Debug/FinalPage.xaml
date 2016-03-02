@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="Rotate_A_Pix.FinalPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Rotate_A_Pix"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:Name="msg1" HorizontalAlignment="Left" Margin="51,91,0,0" TextWrapping="Wrap" Text="Congratulations!" VerticalAlignment="Top" Height="129" Width="311" FontSize="40"/>
+        <TextBlock x:Name="scorebox" HorizontalAlignment="Left" Margin="35,267,0,0" TextWrapping="Wrap" Text="Your Score:" VerticalAlignment="Top" FontSize="40"/>
+        <Button x:ConnectionId='1' x:Name="replay" Content="Play Again" HorizontalAlignment="Left" Margin="135,400,0,0" VerticalAlignment="Top"                     />
+
+    </Grid>
+</Page>
+
