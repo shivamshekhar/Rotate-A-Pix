@@ -7,7 +7,7 @@ A puzzle game where user has to rotate pieces of a jumbled image by tapping on t
 Developed on Microsoft Visual Studio 2015 Community Edition, using C# and XAML.   
 
 #### Version and Release: 
-First Release, Elementrix v1.0  
+First Release, Rotate-A-Pix v1.0  
  
 #### Target Platforms: 
 Microsoft Windows Phone 8.1/10  
