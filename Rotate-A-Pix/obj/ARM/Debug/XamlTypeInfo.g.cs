@@ -580,3 +580,4 @@ namespace Rotate_A_Pix.Rotate_A_Pix_XamlTypeInfo
 
 
 
+
